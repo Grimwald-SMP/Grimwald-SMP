@@ -9,7 +9,7 @@ https://grimwald.vercel.app
 
 | Season | Modded? | Version | Notes | Link |
 |--------|---------|---------|-------|------|
-| 2      | No      | 1.16.4+ |       |      |
+| 2      | No      | 1.16.4+ |       | https://github.com/Grimwald-SMP/Season-2-World |
 | 3      | No      | 1.16.5+ | This season we used a custom map, Wandering Isles by Luki_exe |      |
 | 4      | Yes     | 1.16.5+ | This season we played with origins mod, but it is not required to play on this world. |      |
 | 5      | No      | 1.16.5+ |       |      |
